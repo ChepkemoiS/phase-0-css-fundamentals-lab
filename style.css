@@ -3,3 +3,69 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align:center;
+  color:red;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: brown;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption{
+  text-align: center;
+  font-size: 10px;
+}
+/* styles.css */
+
+#featured-property {
+  text-align: center; /* Center-align the text within the container */
+}
+
+#featured-property p {
+  width: 800px; /* Set a hard width of 800px for paragraphs */
+  margin: 20px auto; /* Add vertical space and center the paragraphs horizontally */
+}
+/* styles.css */
+
+
+
+
+
+
+
+
+
+
+/* styles.css */
+
+#details {
+  clear: both;
+/* Clear any previous floats to avoid layout issues */
+}
+#details div{
+  float: left;
+  background-color: red; 
+  padding: 10px;
+  font-size: smaller;
+  content-align: center;
+  width: 25%;
+}
+
+#details h3 {
+  text-align: center;
+}
+
+
+
+  
+
